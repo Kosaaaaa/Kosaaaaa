@@ -9,7 +9,7 @@
 -   ❤️ Fun Fact: I love F1 and driving fast cars 🏎
 
 <br/>
-
+<br/>
 ## Languages and Tools:
 - Django
 - Python
