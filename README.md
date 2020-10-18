@@ -1,4 +1,4 @@
-# Hi there, I'm Oskar - Kosaaaaa 👋🤓
+# Hi there, I'm Oskar 👋🤓
 
 ### I'm Developer and Student at Technical High School
 
