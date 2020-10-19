@@ -6,7 +6,7 @@
 -   ⚡️ I'm still improving my developer skills
 -   🤠 I'm making new Web Apps with Django
 -   🔥 I'm learning React to improve my stack and my Web Apps
--   ❤️ Fun Fact: I love F1 and driving fast cars 🏎
+-   ❤️ Fun Fact: I love cars 🏎
 
 <br/>
 <br/>
