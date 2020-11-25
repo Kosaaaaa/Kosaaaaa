@@ -4,7 +4,7 @@
 
 -   👨🏽‍💻 I'm currently in 75% of learing in my school
 -   ⚡️ I'm still improving my developer skills
--   🤠 I'm making new Web Apps with Django
+-   🤠 I'm making Web Apps with Django
 -   🔥 I'm learning React to improve my stack and my Web Apps
 -   ❤️ Fun Fact: I love cars 🏎
 
