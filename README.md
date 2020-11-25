@@ -2,7 +2,7 @@
 
 ### I'm Developer and Student at Technical High School
 
--   👨🏽‍💻 I'm currently in 3/4 of learing in my school
+-   👨🏽‍💻 I'm currently in 75% of learing in my school
 -   ⚡️ I'm still improving my developer skills
 -   🤠 I'm making new Web Apps with Django
 -   🔥 I'm learning React to improve my stack and my Web Apps
