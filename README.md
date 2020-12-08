@@ -14,9 +14,10 @@
 ## Languages and Tools:
 - Django
 - Python
+- React 
 - JavaScript
 - HTML 5 & CSS 3
-- React 
+- Java
 - Relational Databases
 - MS SQL and Postgre SQL
 - Git
