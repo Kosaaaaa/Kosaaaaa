@@ -19,7 +19,7 @@
 - HTML 5 & CSS 3
 - Java
 - Relational Databases
-- MS SQL and Postgre SQL
+- MySQL, MS SQL and Postgre SQL
 - Git
 - GitHub
 - And still learing new things everyday 🦦
