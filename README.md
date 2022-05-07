@@ -1,9 +1,11 @@
 # Hi there, I'm Oskar 👋🤓
 ## Languages and Tools:
-- Odoo
-- JavaScript
-- Django
 - Python
+- JavaScript
+- Odoo
+- Django
+- FastAPI
+- Docker
 - Relational Databases - PostgreSQL, MySQL, MS SQL
 - Git, GitHub
 - React 
