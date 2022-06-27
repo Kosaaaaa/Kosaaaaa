@@ -3,10 +3,11 @@
 - Python
 - JavaScript
 - Odoo
-- Django
+- Django & DRF
 - FastAPI
 - Docker
-- Relational Databases - PostgreSQL, MySQL, MS SQL
+- Relational Databases - PostgreSQL, MySQL
+- Webscraping - Scrapy, BeautifulSoup
 - Git, GitHub
 - React 
 - HTML 5 & CSS 3
