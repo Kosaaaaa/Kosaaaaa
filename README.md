@@ -19,10 +19,3 @@
 ### Connect with me:
 
 [okprogramming.pl](https://okprogramming.pl/)
-
-[<img align="left" alt="linkedin logo | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="email icon | Mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/mail-dot-ru.svg" />][mail]
-
-[linkedin]: https://www.linkedin.com/in/oskar-kosobucki-59872b191/
-[mail]: mailto:os.kosobucki@gmail.com
-
