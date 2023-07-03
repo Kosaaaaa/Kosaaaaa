@@ -4,10 +4,11 @@
 - JavaScript
 - Odoo
 - Django & DRF
+- Data Engineering - Pandas, Airflow, PySpark
 - FastAPI
 - Docker
-- Relational Databases - PostgreSQL, MySQL
-- Webscraping - Scrapy, BeautifulSoup
+- RDBMS - PostgreSQL, MySQL, MSSQL
+- Webscraping - Scrapy, BeautifulSoup, playwright
 - Git, GitHub
 - React 
 - HTML 5 & CSS 3
